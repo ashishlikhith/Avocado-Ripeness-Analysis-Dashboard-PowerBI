@@ -1,4 +1,4 @@
-#Avocado Ripeness Dashboard | Power BI + Data Science
+🥑Avocado Ripeness Dashboard | Power BI + Data Science
 This project presents an interactive Power BI dashboard designed to analyze the ripeness of avocados using real-world physical parameters such as firmness, brightness, sound levels, color indicators, and more.
 
 It builds on earlier Python-based machine learning analysis and transforms those insights into a user-friendly, visual decision-making tool for stakeholders.
